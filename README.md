@@ -1,6 +1,6 @@
 ## 🎓 Welcome to CodeMusai University: Your AI-Powered Learning Platform 🎓
 
-<img src="https://github.com/CodeMusic/CodeMusai-University/blob/main/CodeMusaiUniversity.jpg?raw=true" alt="MusaiSearch">
+<img src="https://github.com/CodeMusic/CodeMusai-University/blob/main/CodeMusaiUniversity.png?raw=true" alt="MusaiSearch">
 
 ### How It Works
 
